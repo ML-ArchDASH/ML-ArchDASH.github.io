@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: ML-ArchDASH # the website title (if blank, full name will be used instead)
 first_name: ML
-middle_name: -
+middle_name: 
 last_name: ArchDASH 
 email: zc2569@nyu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
