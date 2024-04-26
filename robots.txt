@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://NYU-ArchDASH.github.io/sitemap.xml
+Sitemap: https://ML-ArchDASH.github.io/sitemap.xml
